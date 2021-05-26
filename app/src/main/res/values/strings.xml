@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Weather API</string>
+    <string name="get_weather">Узнать погоду</string>
+    <string name="edit_text_hint">Введите название города или индекс</string>
+</resources>
